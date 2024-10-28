@@ -16,3 +16,5 @@ This project demonstrates the forward diffusion process by adding Gaussian noise
    pip install -r requirements.txt
 
 To run the main script  : `python scripts/forward_diffusion.py`
+
+![image](https://github.com/user-attachments/assets/885be030-331d-40d9-b5de-062e81cc3227)
